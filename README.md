@@ -9,3 +9,4 @@ Paper | Summary |  Source
 Multi-view Learning with Feature Level Fusion for Cervical Dysplasia Diagnosis |  A feature fusion method between two modalities. | Miccai2019 |
 IRNet: Instance Relation Network for Overlapping Cervical Cell Segmentation | Proposed an IRM (instance relation module) to build instance relation matrix for reducing overlapping impact | Miccai2019 |
 [Deep Semantic Segmentation of Natural and Medical Images: A Review](https://arxiv.org/abs/1910.07655) | Summary of currently used networks, architectures, Loss functions etc. in semantic segmentation of natural and medical images  |  |
+Code Reading: Coco Eval| look into details of cocoeval used in torchvision/reference/detection. | |
