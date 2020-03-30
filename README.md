@@ -11,4 +11,6 @@ IRNet: Instance Relation Network for Overlapping Cervical Cell Segmentation | Pr
 [Deep Semantic Segmentation of Natural and Medical Images: A Review](https://arxiv.org/abs/1910.07655) | Summary of currently used networks, architectures, Loss functions etc. in semantic segmentation of natural and medical images  |   |
 Code Reading: Coco Eval| look into details of cocoeval used in torchvision/reference/detection. |  |
 [EfficientDet: Scalable and Efficient Object Detection](https://arxiv.org/abs/1911.09070) | Lightweight detection model based on efficientNet and BiFPN | CVPR2020  |
+[EfficientNet: Rethinking Model Scaling for Convolutional Neural Networks](https://arxiv.org/abs/1905.11946) | A family of CNN. Sota level, very few FLOPS | ICML 2019| 
+
 
