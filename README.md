@@ -13,4 +13,3 @@ Code Reading: Coco Eval| look into details of cocoeval used in torchvision/refer
 [EfficientDet: Scalable and Efficient Object Detection](https://arxiv.org/abs/1911.09070) | Lightweight detection model based on efficientNet and BiFPN | CVPR2020  |
 [EfficientNet: Rethinking Model Scaling for Convolutional Neural Networks](https://arxiv.org/abs/1905.11946) | A family of CNN. Sota level, very few FLOPS | ICML 2019| 
 
-
